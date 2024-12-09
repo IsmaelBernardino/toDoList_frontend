@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Tarea from "./components/tarea";
+import Tarea from "./components/Tarea";
 import CrearTarea from "./components/CrearTarea";
 
 function App() {
